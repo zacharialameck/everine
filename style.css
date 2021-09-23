@@ -1,0 +1,60 @@
+*{
+padding: 0px;
+margin: 0;	
+
+}
+
+
+nav{
+	background-color: aqua;
+	padding-top: 25px;
+	overflow: hidden;
+	position: relative;
+}
+
+li{
+	float: left;
+	padding: 10px;
+	list-style-type: none;
+	text-transform: uppercase;
+
+
+}
+.logo{
+width: 90px;
+height: 90px;
+float: right;
+padding: right: 50px;	
+}
+.first-section{
+	font-size: 35px;
+	padding-top: 150px;
+	background-size: cover;
+	background-image: url(images/computer2.jfif);
+	height: 380px;
+	
+	background-position: center center;
+}
+.first-section p{
+	padding-top: 160px;
+}
+a{
+text-decoration:none ;
+color: red;
+}
+a:hover{
+	color: yellow;
+	background-color: black;
+}
+.footer{
+	background-color: black;
+	height: 200px;
+	padding-top: 150px;
+
+
+
+
+	
+
+
+
