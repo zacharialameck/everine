@@ -1,5 +1,5 @@
 *{
-padding: 0px;
+padding: 10px;
 margin: 0;	
 
 }
@@ -12,7 +12,7 @@ nav{
 	position: relative;
 }
 
-li{
+ul li{
 	float: left;
 	padding: 10px;
 	list-style-type: none;
@@ -52,8 +52,9 @@ a:hover{
 	padding-top: 150px;
 
 
-
-
+li{
+	padding-left: 15px;
+}
 	
 
 
