@@ -1,0 +1,28 @@
+.container{
+	background-color:green;
+
+}
+
+.head{
+align-center:200 ;
+
+}
+.nav{
+	width:250px;
+	float:left;
+	height: 150%;
+	background-color: red;
+}
+.main-section{
+	width:1000px;
+	float:right;
+	background-color: green;
+	
+}
+
+.footer{
+clear: both;
+height:100;
+background-color: blue;
+
+}
