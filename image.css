@@ -1,0 +1,20 @@
+#left{
+	background-color: yellow;
+	float: left;
+}
+#right{
+	background-color: green;
+	float: right;	
+}
+#name{
+text-align: center;
+background-color: blue;
+height: 200px;
+margin-top: 20px;
+padding: 10px;
+height: 100px;
+color: white;
+}
+img{
+	border-radius: 50%;
+}	
